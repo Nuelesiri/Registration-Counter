@@ -1,0 +1,50 @@
+body {
+    background-image: url("https://scontent-los2-1.xx.fbcdn.net/v/t1.6435-9/76173776_2409418522609255_808880798697521152_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=FqwWkJiim5MAX8_QUCw&_nc_ht=scontent-los2-1.xx&oh=00_AfABaqCFdaRUSD1t-0yg_MY63lbGUh5J_30UNIscKagepQ&oe=662610CD");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    height: 100vh;
+}
+
+.container {
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid orangered;
+    border-radius: 10px;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 1px solid orangered;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: orangered;
+}
+
+#save-btn {
+    background: darkblue;
+}
+
+#save-el {
+    font-weight: bold;
+}
+
